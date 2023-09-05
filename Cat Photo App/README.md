@@ -1,7 +1,4 @@
-# Free code academy - Cat Photo App solution
-
- Cat Photo App
-
+# Cat Photo App 
 
 ## Table of contents
 
