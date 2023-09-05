@@ -1,7 +1,7 @@
 # Free code academy - Cat Photo App solution
 
-This is a solution to the CatPhotoApp
-From FreeCodeAcademy
+ Cat Photo App
+
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ From FreeCodeAcademy
 
 ### What I learned
 
-This project was a good way to practice Semantic HTML5 concepts. And the first project i developed in the FreeCodeAcademy Responsive Web Design Course.
+This project was a good way to practice Semantic HTML5 concepts. And the first project i developed in this Responsive Web Design repository.
 
 ### Continued development
 
