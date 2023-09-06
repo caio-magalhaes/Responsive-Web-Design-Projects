@@ -36,7 +36,7 @@ I want to keep using Semantic HTML skills and implement CSS concepts in my futur
 ### Useful resources
 
 - [w3schools](https://www.w3schools.com/html/default.asp) - This helped me review the main functionalities of the HTML so i could build semantic pages. I really liked this pattern and will use it going forward.
-- - [w3schools](https://www.w3schools.com/css/) - This helped me review the basic CSS functionalities so i could build better looking pages. I hope to keep improving the style of my projects.
+- [w3schools](https://www.w3schools.com/css/) - This helped me review the basic CSS functionalities so i could build better looking pages. I hope to keep improving the style of my projects.
 
 ## Author
  
